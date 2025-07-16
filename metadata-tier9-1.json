@@ -1,7 +1,7 @@
 {
   "name": "Apis Bee NFT - Tier 9 #1",
   "description": "This NFT provides direct exposure to the Apis Bees trading bot pool. Holders get pooled funds traded by algorithms. Tier 9: Entry-level access.",
-  "image": "https://raw.githubusercontent.com/ai-dev-USA/BEEZ/b606ef054bcdfbdaf3a389bb6c9f6bf5e57d9b6e/sticker.webp",  // We'll replace this with a real image URL soon
+  "image": "https://raw.githubusercontent.com/ai-dev-USA/BEEZ/b606ef054bcdfbdaf3a389bb6c9f6bf5e57d9b6e/sticker.webp",
   "attributes": [
     {
       "trait_type": "Tier",
